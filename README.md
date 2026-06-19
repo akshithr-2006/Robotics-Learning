@@ -3,7 +3,7 @@ Robotics Engineering journey | Arduino → ROS2 → SLAM | C++ · Python · Embe
 
 ------
 
-## Day 1
+## Day 1 - Arduino And Breadboard Basics
 ### Concepts Learned:
 1. What is a microcontroller?
 2. Why Git and GitHub?
