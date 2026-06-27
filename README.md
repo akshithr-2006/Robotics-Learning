@@ -139,6 +139,114 @@ Checked whether numbers from 1 to 20 are odd or even using if-else statements an
 
 ---
 
+# Day 3 - Functions: Write Code Once, Use It Anywhere
+
+## Concepts Learned:
+
+### What is a Function?
+A function is a named block of code that performs a specific task. It can be called multiple times without rewriting the same code.
+
+### Why Use Functions?
+- Avoid repeating code
+- Improve readability
+- Make programs easier to maintain
+- Simplify debugging and future modifications
+
+### The Four Parts of a Function
+- Return Type (void, int, float, etc.)
+- Function Name
+- Parameters
+- Function Body
+  
+### Types of Functions
+- Void Function – Performs a task but does not return a value.
+- Return Function – Performs a calculation and returns a value.
+  
+### Parameters
+Parameters allow data to be passed into a function, making it flexible and reusable.
+
+### Refactoring
+Refactoring means improving the structure of code without changing its behavior. Functions help eliminate duplicate code.
+
+# Projects Completed:
+
+## 1. addTwoNumbers()
+
+### Description
+Created a function that accepts two integers, adds them together, and returns the result.
+
+### Concepts Used
+- Function declaration
+- Return type (int)
+- Parameters
+- return statement
+
+### Sample Output
+- 5 + 3 = 8
+- 100 + 200 = 300
+- -10 + 25 = 15
+
+### Output:
+<img width="500" height="542" alt="Screenshot 2026-06-22 at 9 43 07 AM" src="https://github.com/user-attachments/assets/ca208358-63e9-4681-bf36-519b9769ca26" />
+
+## 2. celsiusToFahrenheit()
+
+### Description
+Created a function that converts Celsius to Fahrenheit using the standard conversion formula.
+
+### Formula
+- F = (C × 9.0 / 5.0) + 32.0
+
+### Concepts Used
+- Float data type
+- Mathematical calculations
+- Returning decimal values
+- 
+### Sample Output
+- 0°C = 32.00°F
+- 37°C = 98.60°F
+- 42°C = 107.60°F
+- 100°C = 212.00°F
+
+### Output:
+<img width="518" height="534" alt="Screenshot 2026-06-24 at 7 03 14 PM" src="https://github.com/user-attachments/assets/08c1bf6a-212e-4833-bf7d-e5eb3094850b" />
+
+## 3. blinkLED()
+
+### Description
+Created a reusable function to blink an LED by passing the pin number, number of blinks, and blink duration as parameters.
+
+### Concepts Used
+- Custom functions
+- Parameters
+- for loop
+- digitalWrite()
+- delay()
+
+### Demonstration
+- 3 short blinks
+- 5 fast blinks
+- 1 long blink
+
+# Skills Gained
+- Creating Custom Functions
+- Function Parameters
+- Return Values
+- Code Reusability
+- Code Refactoring
+- Modular Programming
+- Mathematical Functions
+- LED Control using Functions
+
+------
+
+
+
+
+
+
+
+
 
 
 
