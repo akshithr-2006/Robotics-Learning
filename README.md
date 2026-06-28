@@ -240,7 +240,97 @@ Created a reusable function to blink an LED by passing the pin number, number of
 
 ------
 
+# Day 4 - Terminal, Git Commands & Linux Basics
 
+## Concepts Learned
+
+### Terminal
+A terminal is a text-based interface that allows users to interact with the operating system using commands instead of a graphical interface.
+
+### File System Navigation
+Learned how to navigate directories and manage files using terminal commands.
+
+### Absolute vs Relative Paths
+- `Absolute Path` – The complete path from the root directory.
+- `Relative Path` – A path relative to the current working directory.
+
+### Linux Terminal Commands
+- `pwd` – Display current working directory.
+- `ls` – List files and folders.
+- `cd` – Change directory.
+- `mkdir` – Create a new directory.
+- `touch` – Create a new file.
+- `rm` – Remove files.
+- `echo` – Write content into a file.
+
+### Git Basics
+Git is a distributed version control system used to track changes in source code and collaborate efficiently.
+
+### Git Workflow
+Working Directory → Staging Area → Local Repository → Remote Repository (GitHub)
+- `Git Commands`
+- `git init`
+- `git status`
+- `git add`
+- `git commit`
+- `git log`
+- `git diff`
+- `git remote`
+- `git push`
+- `.gitignore`
+Learned how to exclude unnecessary build files and system-generated files from a Git repository.
+
+## Projects Completed:
+
+### 1. Terminal Navigation Practice
+
+#### Description
+Practiced navigating directories, creating folders, creating files, deleting files, and moving between directories using Linux terminal commands.
+
+#### Concepts Used
+- `pwd`
+- `ls`
+- `cd`
+- `mkdir`
+- `touch`
+- `rm`
+
+### 2. Git Workflow Practice
+
+#### Description
+Initialized a Git repository, tracked files, created commits, viewed commit history, and compared file changes.
+
+#### Concepts Used
+- `git init`
+- `git status`
+- `git add`
+- `git commit`
+- `git log`
+- `git diff`
+
+### 3. GitHub Repository Organization
+
+#### Description
+Organized Week 1 Arduino sketches into separate day folders, connected the local repository to GitHub, pushed commits, and created a .gitignore file.
+
+#### Concepts Used
+- `git remote add`
+- `git push`
+- `Repository Structure`
+- `.gitignore`
+- `Version Control Best Practices`
+
+## Skills Gained
+- Terminal Navigation
+- Linux File System Basics
+- Git Version Control
+- GitHub Workflow
+- Commit History Management
+- Repository Organization
+- File Tracking
+- Difference Between Staged and Unstaged Changes
+- Using .gitignore
+- Software Development Best Practices
 
 
 
